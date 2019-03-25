@@ -1,4 +1,3 @@
-# Nameless ClubApp Front-End
 ## Read before start
 This library is currently under construction.
 
